@@ -3,7 +3,8 @@ This repo is meant to hold current and past versions of the Student Members of t
 
 I've never used Git, Github, HTML, or CSS before, so to say this will be a work in progress is to say the least.
 
-Currently this site is not attached to any domain name, so it can only run locally.
+~~Currently this site is not attached to any domain name, so it can only run locally.~~
+Set up to run through Github Pages as a temporary hosting site.
 
 
 ## TO DO:
