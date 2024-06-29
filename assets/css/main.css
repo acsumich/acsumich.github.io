@@ -2980,11 +2980,11 @@
 	.navPanelToggle {
 		text-decoration: none;
 		text-decoration: none;
-		height: 100%;
-		left: 0;
+		height: 15%;
+		left: 5px;
 		position: absolute;
 		top: 0;
-		width: 100%;
+		width: 7%;
 		display: none;
 	}
 
@@ -3016,7 +3016,7 @@
 			line-height: 2.25em;
 			position: absolute;
 			text-align: center;
-			top: 0.5em;
+			top: .5em;
 			width: 3.5em;
 		}
 
