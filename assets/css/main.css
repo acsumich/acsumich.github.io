@@ -2983,7 +2983,7 @@
 		height: 15%;
 		left: 5px;
 		position: absolute;
-		top: 0;
+		top: 5%;
 		width: 7%;
 		display: none;
 	}
@@ -3014,7 +3014,6 @@
 			height: 2.25em;
 			left: 0.5em;
 			line-height: 2.25em;
-			position: absolute;
 			text-align: center;
 			top: .5em;
 			width: 3.5em;
