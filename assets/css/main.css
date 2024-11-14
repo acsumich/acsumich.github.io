@@ -2931,10 +2931,10 @@
 			}
 
 			#header.alt2 {
-				background-color: transparent;
+				background-color: #ffffff;
 				border: 0;
 				box-shadow: none;
-				height: 3em;
+				height: 5em;
 				line-height: 1.25em;
 				position: absolute;
 			}
@@ -3151,7 +3151,7 @@
 	#banner2 {
 		padding: 16em 0 13em 0;
 		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("../../images/logos/acs-construction.png");
+		background-image: url("images/overlay.png"), url("../../images/logos/acs-labcoat.png");
 		background-position: center -5%;
 		background-size: cover;
 		line-height: 1.75;
